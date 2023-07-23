@@ -1,0 +1,5 @@
+import random
+me = ["Я люблю jujutsu no kaisen", "Я взял призовое место в олимпиаде по информатике","Я тут","сас","ЕМУ ТОЧНО 89!!!!!!!??????"]
+
+fact = random.choice(me)
+print(fact)
